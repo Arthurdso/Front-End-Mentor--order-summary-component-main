@@ -129,7 +129,9 @@
         width: 100%;
     }
     .planos {
+        margin-top: -1px;
         width: 709px;
+        padding-top: 46px;
     }
     
     .botoes {
